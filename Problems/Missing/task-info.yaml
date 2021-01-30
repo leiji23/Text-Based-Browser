@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    file = open('test_file.txt', 'r')
+    print('Opened test_file!')
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8697#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 18 Jan 2021 01:00:30 UTC
+record: -1
