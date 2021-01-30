@@ -18,7 +18,7 @@ current_page = ''
 while True:
     file_list = os.listdir(args.dir)
     url = input()
-    if url == 'exit':
+    if url == 'exit':  # may not be needed
         break
     else:
         try:
